@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Welcome GIF" width="200"/>
   <h1>✨ Bienvenue dans mon univers GitHub ✨</h1>
   <h3>🚀 DevSecOps | ☁️ Cloud | 💻 Étudiant Ingénieur</h3>
 </div>
@@ -30,16 +29,14 @@ l'automatisation, la securite informatique et les mangas**.
 
 ---
 
-## 🌐 Où me trouver en ligne
+## 🌐 Mon LinkedIn
 
 <p align="center">
   <a href="https://linkedin.com/in/wistantkode" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <br>
-  <a href="https://x.com/@wistantkode" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
-  </a>
+
 
 </p>
 
@@ -81,17 +78,22 @@ La puissance, la maniabilité et la fiabilité de l'open source avec l'environne
 
 
 
----
-
-## 📊 Statistiques de mon activité GitHub
+## 📊 Mes Statistiques GitHub
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&theme=radical&show_icons=true" alt="Stats GitHub"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=wistantkode&theme=radical&hide_border=false" alt="Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=radical" alt="Langages"/>
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode)
+
 </div>
+
 ---
 
 ## 🚀 Objectifs pour Juin 2026 : Ma feuille de route
