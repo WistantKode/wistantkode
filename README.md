@@ -42,6 +42,7 @@ l'automatisation, la securite informatique et les mangas**.
 
 ---
 
+
 ## 💻 Ma Stack Technique
 
 J'ai un objectif et ma stack est faite pour me permettre d'atteindre ce dernier : etre le plus grand DevSecOps d'Afrique.
