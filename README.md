@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✨ Welcome to my GitHub Universe ✨</h1>
-  <h3>🚀 DevSecOps Engineer | ☁️ Cloud Enthusiast | 💻 Software Engineering Student</h3>
+  <h3>🚀 future DevSecOps Engineer | ☁️ Cloud Enthusiast | 💻 Software Engineering Student</h3>
 </div>
 
 ---
