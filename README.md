@@ -1,11 +1,13 @@
-<div align="center">
-  <h1>✨ Welcome to my GitHub Universe ✨</h1>
-  <h3>🚀 DevSecOps Engineer | ☁️ Cloud Enthusiast | 💻 Software Engineering Student</h3>
-</div>
+<h1 align="center"><b>Hey , I'm Wistant </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It'''s+Wistant..&hearts;++;DevSecOps+Engineer,;Cloud+Enthusiast,;Software+Engineering+Student,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
----
+<!--  Ceci mon Avatar-->
+<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
 
-## 🌟 About Me
+<!--  About me -->
+**About me**
 
 > Hi! I'm **Wistant**, a passionate and self-taught student pursuing a **DUT in Software Engineering** in Cameroon 🎓.
 
@@ -25,9 +27,8 @@
 * **HTML/CSS** for web design
 * **Git** for version control
 
----
-
-## 🌐 My LinkedIn
+<!-- Let'''s Connect..! -->
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="center">
   <a href="https://linkedin.com/in/wistantkode" target="_blank">
@@ -35,15 +36,21 @@
   </a>
 </p>
 
----
+<!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
+![GitHub followers](https://img.shields.io/github/followers/wistantkode?style=social)
+[![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=wistantkode)
 
-## 💻 My Tech Stack
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-I have a clear goal and my tech stack is designed to help me achieve it: becoming the greatest DevSecOps engineer in Africa. It's oriented by stability, security, and scalability with Java; automation, robustness, and control with Git and Bash; the power, manageability, and reliability of open source with the Linux environment.
+<!-- Skills  -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 ### 🔹 Tools & Environments
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,9 +73,9 @@ I have a clear goal and my tech stack is designed to help me achieve it: becomin
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📊 My GitHub Statistics
+<!-- Github Stats   -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <div align="center">
   
@@ -84,30 +91,45 @@ I have a clear goal and my tech stack is designed to help me achieve it: becomin
 
 </div>
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Goals for June 2026: My Roadmap
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center" >
 
-* ✅ Launch my very first Software as a Service with the primary goal of learning through concrete projects and having real environments to deploy, secure, and finally monetize.
-* ✅ Launch impactful **technological initiatives** on my campus and in my city.
-* ✅ Build the foundations of a revolutionary tech empire in my continent and be remembered for eternity.
-* ✅ Become financially independent by leveraging my **tech** skills.
-* ✅ Build and animate a **community** of developers, focused on code and knowledge sharing.
+| Choose your language         | Flags                                                                                                              |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [EN-US](README 1.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
+| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
+| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
 
----
-
-## 📖 Quote That Inspires Me
-
-> "Code is like painting: every line can become a work of art if written with passion." 🎨💻
-
----
-
-## 🎯 My Vision for the Future
-
-> I want to build a revolutionary tech empire in my continent and be remembered in the annals for eternity.
-
----
-
-<div align="center">
-  <h3>💡 Always building, always learning, always growing. Let's connect! 💡</h3>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+Credit: [Wistant](https://github.com/wistantkode) 
+
+Last Edited on: 03/09/2024
+<details> 
+  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
+  <div>
+  <samp>
+      <br/>
+            <p align="center">
+      </p>
+        <p align="center">
+          <a href="https://github.com/wistantkode/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wistantkode&theme=gruvbox&layout=compact&hide_border=true"
+          alt="wistantkode :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wistantkode&theme=gruvbox&layout=compact&hide_border=true"
+          alt="wistantkode :: Top Langs by commit" />
+          </a>
+        </p>
+    <br>
+
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wistantkode&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+
+<br>
+</details>

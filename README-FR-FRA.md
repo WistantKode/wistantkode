@@ -1,110 +1,136 @@
-<h1 align="center"><b>Hi , I'm Mohamed Aziz Ben Ismail </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Salut, je suis Wistant </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Aziz+BenIsmail..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Salut!+C'est+Wistant..&hearts;++;Ingénieur+DevSecOps,;Passionné+par+le+Cloud,;Étudiant+en+Génie+Logiciel,;J'adore+apprendre+de+nouvelles+choses..<3"></a>
 </p>
-<!--
-<p align="center">
-  
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Ben+Ismail+Aziz!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/AzizBenIsmail) 
 
-  </p> -->
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
+<img title="Mon Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="salut" >
 
-<!--  Ceci une image -->
-<picture> <img align="right" src="assets/Right_Side.gif" width = 200px></picture>
+<!--  À propos de moi -->
+**À propos de moi**
 
-<!--  About me -->
-## <picture><img src = "assets/about_me.gif" width = 50px></picture> **À propos de moi**
-Je suis Aziz Ben Ismail étudiant en informatique à (ESPRIT) en Tunisie 💻 , j'ai 22 ans et créateur de contenu sur[Youtube](https://www.youtube.com/c/AzizBenIsmail).
-Je suis complètement passionné par le développement backend frontend, j'aime écouter de la musique, regarder des films, des séries et le partager avec mes amis.
-<img height ="30" src= "assets/friends.gif" />
+> Salut! Je suis **Wistant**, un étudiant passionné et autodidacte en **DUT Génie Logiciel** au Cameroun 🎓.
 
-<!-- Let's Connect..! -->
-# <b> Prenons contact..!</b><img src="assets/images/handshake.gif" width ="80">
+> Mon objectif est de devenir un acteur majeur de la tech en Afrique 🌍. Je suis fasciné par le **Cloud Computing, l'Automatisation, la Cybersécurité et les Mangas**.
 
-[![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07) 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/) 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
+🚀 J'apprends et j'améliore mes compétences dans les technologies suivantes :
 
-<!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-![Vues de la chaîne YouTube](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
-![Abonnés GitHub](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-23-blue" />
+* **Java** et **Spring Boot** pour le développement back-end robuste et scalable
+* **Next.js** pour les applications web modernes
+* **Linux : Protocoles et Cybersécurité** pour la sécurisation des serveurs, des applications et la réponse aux incidents
+* **Concepts Cloud & DevOps** pour des déploiements sécurisés et automatisés
+
+🔥 J'ai déjà des bases solides et des connaissances en :
+
+* **Environnement Linux et scripting Bash**
+* **JavaScript** pour la polyvalence
+* **HTML/CSS** pour le design web
+* **Git** pour le contrôle de version
+
+<!-- Connectons-nous..! -->
+# <b> Connectons-nous..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<p align="center">
+  <a href="https://linkedin.com/in/wistantkode" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+<!-- Vues de la chaîne YouTube / Abonnés GitHub / Visiteurs / Âge -->
+![Abonnés GitHub](https://img.shields.io/github/followers/wistantkode?style=social)
+[![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
+![Nombre de visites de la page Github](https://komarev.com/ghpvc/?username=wistantkode)
 
 <!-- Ligne  -->
-<img src="assets/images/Ligne.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- TODO: Add last video link 
-
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: aziz.270700@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
--->
-
-
-<!-- Skills  -->
-## <img src="assets/images/Skills.gif" width ="25"><b> Skills</b>
+<!-- Compétences  -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Compétences</b>
 <br>
 
-<!-- TODO: Make technologies links takes you to repositories -->
+### 🔹 Outils & Environnements
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- Github Stats   -->
-## <img src="assets/Stats.gif" width="35"><b> Statistiques Github </b>
+### 🔹 Langages & Frameworks
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🔹 Web & UI
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔹 Bases de données
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Statistiques Github   -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Statistiques Github </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-![Langages préférés d'Ismail](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&theme=algolia&layout=compact)
-[![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=algolia)](https://github.com/AzizBenIsmail)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&theme=radical&show_icons=true" alt="Statistiques GitHub"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=wistantkode&theme=radical&hide_border=false" alt="Série GitHub"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
+  ![trophée](https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AzizBenIsmail&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<div align="center" >
-
-| Choisissez votre langue         |   Drapeaux                                                                                                            |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
-| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
-| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
+  ![visiteurs](https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode)
 
 </div>
-<!-- Ligne  -->
+
+### ✍️ Citation de développeur aléatoire
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center" >
+
+| Choisissez votre langue         | Drapeaux                                                                                                              |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [EN-US](README 1.md)       | <img width="15%" alt="Logo Node4Devs" title="Drapeau des États-Unis (USA)" src="./assets/images/flags/USA.png" /> |
+| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Logo Node4Devs" title="Drapeau de la France (FR)" src="./assets/images/flags/France.png" />        |
+| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Logo Node4Devs" title="Drapeau saoudien (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail)
+Crédit: [Wistant](https://github.com/wistantkode) 
 
-Dernière édition le: 03/08/2023
+Dernière modification le: 03/09/2024
 <details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>Statistiques de profil GitHub </summary>
+  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>Statistiques du profil GitHub </summary>
   <div>
   <samp>
       <br/>
             <p align="center">
       </p>
         <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
+          <a href="https://github.com/wistantkode/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wistantkode&theme=gruvbox&layout=compact&hide_border=true"
+          alt="wistantkode :: Langues les plus utilisées par dépôt" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wistantkode&theme=gruvbox&layout=compact&hide_border=true"
+          alt="wistantkode :: Langues les plus utilisées par commit" />
           </a>
         </p>
+    <br>
+
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophées</b>
+
+[![trophée](https://github-profile-trophy.vercel.app/?username=wistantkode&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+
+<br>
 </details>
-
-
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
