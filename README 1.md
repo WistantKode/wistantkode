@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✨ Welcome to my GitHub Universe ✨</h1>
-  <h3>🚀 DevSecOps Engineer | ☁️ Cloud Enthusiast | 💻 Software Engineering Student</h3>
+  <h3>🚀 DevSecOps Practicer | 💻 Software Engineering Student</h3>
 </div>
 
 ---
@@ -13,7 +13,7 @@
 
 🚀 I'm learning and improving my skills in the following technologies:
 
-* **Java** and **Spring Boot** for robust, scalable back-end development
+* **Node.js** and **NestJS** for robust, scalable back-end development
 * **Next.js** for modern web applications
 * **Linux: Protocols and Cybersecurity** for securing servers, applications, and incident response
 * **Cloud & DevOps** concepts for secure, automated deployments
@@ -50,9 +50,9 @@ I have a clear goal and my tech stack is designed to help me achieve it: becomin
 
 ### 🔹 Languages & Frameworks
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Nodes.js](https://img.shields.io/badge/nodejs-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🔹 Web & UI
