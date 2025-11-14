@@ -20,10 +20,10 @@
 ---
 
 ###  Currently Focused On
--  **NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
-- ⚙ **Next.js + React Server Components** → modern performance
-- ☁ **CI/CD + Docker + GitHub Actions** → continuous deployment mindset
--   **Linux & Security** → scripting, hardening, self-hosted pipelines
+**NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
+**Next.js + React Server Components** → modern performance
+**CI/CD + Docker + GitHub Actions** → continuous deployment mindset
+**Linux & Security** → scripting, hardening, self-hosted pipelines
 
 > _“Write clearly. Automate wisely. Learn endlessly.”_
 
@@ -55,7 +55,7 @@
 ## Mes Outils de Travail
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstrom,intellij,pycharm,typescript,nextjs,reactjs,nestjs,insomnia,postman,linux,ubuntu,kalilinux,mint" />
+    <img src="https://skillicons.dev/icons?i=webstrom,intellij,pycharm,typescript,nextjs,react,nestjs,insomnia,postman,linux,ubuntu,kalilinux,mint" />
   </a>
 </p>
 
