@@ -19,11 +19,11 @@
 
 ---
 
-### 🚀 Currently Focused On
-- 🧩 **NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
-- ⚙️ **Next.js + React Server Components** → modern performance
-- ☁️ **CI/CD + Docker + GitHub Actions** → continuous deployment mindset
-- 🧠 **Linux & Security** → scripting, hardening, self-hosted pipelines
+###  Currently Focused On
+-  **NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
+- ⚙ **Next.js + React Server Components** → modern performance
+- ☁ **CI/CD + Docker + GitHub Actions** → continuous deployment mindset
+-   **Linux & Security** → scripting, hardening, self-hosted pipelines
 
 > _“Write clearly. Automate wisely. Learn endlessly.”_
 
@@ -49,60 +49,34 @@
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+###
 
----
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wistantkode&theme=radical&show_icons=true&count_private=true" height="150px" />
-<img src="https://streak-stats.demolab.com?user=wistantkode&theme=radical" height="150px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=radical" height="150px" />
-
-</div>
-
----
-
-## 🧩 Developer Metrics
-
-- 🕓 **Wakatime** → [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/@wistantkode)
-- 👀 **Profile Visits** → ![Profile Views](https://komarev.com/ghpvc/?username=wistantkode&style=flat-square&color=blue)
-- 🌟 **Followers** → ![GitHub followers](https://img.shields.io/github/followers/wistantkode?style=social)
-
----
-
-## 🧠 Philosophy
-
-> Code is not about syntax.  
-> It’s about **understanding, structure, and growth**.  
-> I don’t rush — I **refactor, learn, and build smarter** every day.
-
-## 🪶 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🌍 Multi-language
-
-| Language | Flag |
-|:--|:--|
-| [English](README.md) | 🇺🇸 |
-| [Français](./README-FR-FRA.md) | 🇫🇷 |
-| [العربية](./README-AR-SA.md) | 🇸🇦 |
-
----
-
+## Mes Outils de Travail
 <p align="center">
-  ⚡ Built with passion by <a href="https://github.com/wistantkode">Wistant</a>  
-  <br/>
-  <sub>Last updated: <b>November 6, 2025</b></sub>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,python,c,cpp,java,flutter,js,html,css,django,firebase,github,godot,nodejs,express,mongo,tailwind,discord,nextjs,typescript,docker,pycharm,webstorm,postman,mint" />
+  </a>
 </p>
 
-<details>
-  <summary>📈 More GitHub Insights</summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
-</details>
-</div>
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
+<br>
+<p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&theme=radical&show_icons=true&count_private=true" height="150px"  alt=""/></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&theme=radical" height="150px"  alt=""/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=radical" height="150px"  alt=""/></p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l)
