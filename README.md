@@ -66,7 +66,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wistantkode&theme=default" alt="GitHub Trophies" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
