@@ -60,8 +60,9 @@
 </p>
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
-[visitors](https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode)
-[trophy](https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+[Visitors](https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode)
+[trophy](https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-![Trophies](https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+w=15)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
 
