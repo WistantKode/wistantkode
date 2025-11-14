@@ -52,13 +52,7 @@
 ###
 
 
-## Mes Outils de Travail
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,intellij,pycharm,javascript,typescript,nextjs,react,nestjs,postman,linux,ubuntu,kali,mint"  alt=""/>
-  </a>
 
-</p>
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
@@ -75,5 +69,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
 <br>
 <p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
+
+
+## Mes Outils de Travail
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,javascript,typescript,nextjs,react,nestjs,postman,linux,ubuntu,kali,mint"  alt=""/>
+  </a>
+</p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l)
