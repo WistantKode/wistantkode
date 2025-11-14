@@ -63,7 +63,7 @@
 
 <p align="center">
   <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Visitors" />
 
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=wistantkode&theme=default" alt="GitHub Trophies" />
