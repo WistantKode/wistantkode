@@ -55,7 +55,7 @@
 ## Mes Outils de Travail
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstrom,intellij,pycharm,typescript,nextjs,react,nestjs,postman,linux,ubuntu,kali,mint" />
+    <img src="https://skillicons.dev/icons?i=webstrom,intellijide,pycharm,javascript,typescript,nextjs,react,nestjs,postman,linux,ubuntu,kali,mint" />
   </a>
 </p>
 
