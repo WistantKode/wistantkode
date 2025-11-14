@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Hey!+It's+Wistant;DevSecOps+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀">
 </a>
 
-<img src="assets/images/Aziz.png" width="150" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>
+<img src="assets/images/Aziz.png" width="400" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>
 
 ---
 
@@ -31,20 +31,20 @@
 
 ## 🛠️ Tech Arsenal
 
-### 🔹 Core Stack
+###  Core Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔹 Tools & Environments
+###  Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🔹 UI & Styling
+###  UI & Styling
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -61,22 +61,10 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
 
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
 <br>
 <p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&theme=radical&show_icons=true&count_private=true" height="150px"  alt=""/></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&theme=radical" height="150px"  alt=""/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=radical" height="150px"  alt=""/></p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l)
