@@ -19,11 +19,11 @@
 
 ---
 
-### 🚀 Currently Focused On
-- 🧩 **NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
-- ⚙️ **Next.js + React Server Components** → modern performance
-- ☁️ **CI/CD + Docker + GitHub Actions** → continuous deployment mindset
-- 🧠 **Linux & Security** → scripting, hardening, self-hosted pipelines
+###  Currently Focused On
+-  **NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
+- ⚙ **Next.js + React Server Components** → modern performance
+- ☁ **CI/CD + Docker + GitHub Actions** → continuous deployment mindset
+-   **Linux & Security** → scripting, hardening, self-hosted pipelines
 
 > _“Write clearly. Automate wisely. Learn endlessly.”_
 
@@ -73,5 +73,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
 <br>
 <p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&theme=radical&show_icons=true&count_private=true" height="150px"  alt=""/></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&theme=radical" height="150px"  alt=""/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=radical" height="150px"  alt=""/></p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l)
