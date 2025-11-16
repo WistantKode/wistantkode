@@ -98,11 +98,4 @@ My journey in software engineering is driven by a passion for building complete,
 
 ---
 
-## My Working Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,javascript,typescript,nextjs,react,nestjs,postman,linux,ubuntu,kali,mint"  alt=""/>
-  </a>
-</p>
-
 </div>
