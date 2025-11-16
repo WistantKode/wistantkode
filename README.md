@@ -14,7 +14,7 @@
 <p align="center">
   <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
-
+</p>
 
 ---
 
@@ -58,23 +58,22 @@
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-###
 
 ---
 
+<p align="center">
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-
-  <!--  Github stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
-<br>
-<p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
+<!--  Github stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />
+  <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" />
+</div>
 
 ---
 
@@ -86,3 +85,4 @@
 </p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l)
+</div>
