@@ -20,10 +20,14 @@
 
 ### 🌐 About Me
 
+
+<p align="center">
 > Passion over perfection, curiosity over comfort.  
 <br>
-> I’m Wistant, a self-taught developer and Software Engineering student focused on DevSecOps, automation, and secure scalable systems**.  
-> My journey blends Next.js, NestJS, and cloud infrastructure — bridging frontend creativity with backend precision.
+> I’m Wistant, a self-taught developer and Software Engineering student focused on DevSecOps, automation, and secure scalable systems.
+> My journey blends Next.js, NestJS, and cloud infrastructure
+> bridging frontend creativity with backend precision.
+</p>
 
 ---
 
@@ -38,7 +42,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## My principal Tech Arsenal
              
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
