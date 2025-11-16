@@ -24,7 +24,9 @@
 <p align="center">
 Passion over perfection, curiosity over comfort.  
 <br>
-I’m Wistant, a self-taught developer and Software Engineering student focused on DevSecOps, automation, and secure scalable systems.
+I’m Wistant, a self-taught developer and Software Engineering student focused on DevSecOps, 
+<br>
+automation, and secure scalable systems.
 <br>
 My journey blends Next.js, NestJS, and cloud infrastructure
 <br>
