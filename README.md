@@ -14,16 +14,20 @@
 ### 🌐 About Me
 
 > Passion over perfection, curiosity over comfort.  
+<br>
 > I’m **Wistant**, a self-taught developer and Software Engineering student focused on **DevSecOps**, **automation**, and **secure scalable systems**.  
 > My journey blends **Next.js**, **NestJS**, and **cloud infrastructure** — bridging frontend creativity with backend precision.
 
 ---
 
 ###  Currently Focused On
-**NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
-**Next.js + React Server Components** → modern performance
-**CI/CD + Docker + GitHub Actions** → continuous deployment mindset
-**Linux & Security** → scripting, hardening, self-hosted pipelines
+-  **NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
+   <br>
+-  **NextJS + React Server Components** → modern performance
+   <br>
+-  **CI/CD + Docker + GitHub Actions** → continuous deployment mindset
+   <br>
+-  **Linux & Security** → scripting, hardening, self-hosted pipelines
 
 > _“Write clearly. Automate wisely. Learn endlessly.”_
 
