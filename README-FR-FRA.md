@@ -46,14 +46,17 @@
 
 ---
 
-###  Mes priorités actuelles
-**NestJS + PostgreSQL** → architecture backend propre, évolutive et robuste & typage avancé
+### 🚀 Ma Quête Actuelle : Bâtir le Full Stack
+
+Mon parcours en ingénierie logicielle est guidé par la passion de construire des systèmes complets, robustes et sécurisés de A à Z. Voici ce sur quoi je me concentre actuellement :
+
+- **Architecturer des Backends Résilients :** Je plonge dans **NestJS & PostgreSQL**, en me concentrant sur les principes d'architecture propre et la modélisation de données avancée pour créer des API qui ne sont pas seulement fonctionnelles, mais aussi évolutives et maintenables.
    <br>
-**NextJS + React Server Components** → applications web modernes, performantes et évolutives
+- **Créer des Expériences Web Modernes :** Avec **Next.js & React Server Components**, j'explore l'avenir du web, visant à créer des interfaces utilisateur ultra-rapides, interactives et optimisées pour le SEO.
    <br>
-**CI/CD + Docker + GitHub Actions** → culture du déploiement continu
+- **Automatiser pour la Fiabilité & la Sécurité :** J'adopte une mentalité DevSecOps en construisant des pipelines CI/CD automatisés avec **Docker & GitHub Actions**. Mon objectif est de garantir que chaque morceau de code est testé, sécurisé et déployé de manière transparente.
    <br>
-**Linux & Sécurité** → scripting, renforcement, pipelines auto-hébergés
+- **Maîtriser les Fondations :** Je renforce constamment mes fondamentaux en **Linux & Sécurité**, du scripting shell et du durcissement des systèmes à la compréhension des principes fondamentaux qui rendent les logiciels sécurisés.
 
 ---
 

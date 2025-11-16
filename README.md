@@ -32,7 +32,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wistantkode" style="cursor:pointer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a>  
   <a href="mailto:wistantkode@protonmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -46,14 +46,17 @@
 
 ---
 
-###  Currently Focused On
-**NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
+### 🚀 My Current Quest: Building the Full Stack
+
+My journey in software engineering is driven by a passion for building complete, robust, and secure systems from the ground up. Here's what I'm currently focused on:
+
+- **Architecting Resilient Backends:** I'm deep-diving into **NestJS & PostgreSQL**, focusing on clean architecture principles and advanced data modeling to build APIs that are not just functional, but also scalable and maintainable.
    <br>
-**NextJS + React Server Components** → modern performance and scalable web apps
+- **Crafting Modern Web Experiences:** With **Next.js & React Server Components**, I'm exploring the future of the web, aiming to create blazingly fast, interactive, and SEO-friendly user interfaces.
    <br>
-**CI/CD + Docker + GitHub Actions** → continuous deployment mindset
+- **Automating for Reliability & Security:** I'm embracing a DevSecOps mindset by building automated CI/CD pipelines with **Docker & GitHub Actions**. My goal is to ensure that every piece of code is tested, secured, and deployed seamlessly.
    <br>
-**Linux & Security** → scripting, hardening, self-hosted pipelines
+- **Mastering the Foundation:** I'm constantly strengthening my fundamentals in **Linux & Security**, from shell scripting and system hardening to understanding the core principles that make software secure.
 
 ---
 
