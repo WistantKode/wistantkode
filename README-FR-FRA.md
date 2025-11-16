@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visiteurs" />
   <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="Abonnés" />
-  <img src="https://img.shields.io/github/directory-file-count/wistantkode/wistantkode?label=Repos&style=social" alt="Dépôts" />
+  <img src="https://img.shields.io/github/public-repos/wistantkode?style=social" alt="Dépôts" />
 </p>
 
 ---
@@ -48,16 +48,18 @@
 
 ### 🚀 Ma Quête Actuelle : Bâtir le Full Stack
 
+<p align="center">
 Mon parcours en ingénierie logicielle est guidé par la passion de construire des systèmes complets, robustes et sécurisés de A à Z. Voici ce sur quoi je me concentre actuellement :
 
 - **Architecturer des Backends Résilients :** Je plonge dans **NestJS & PostgreSQL**, en me concentrant sur les principes d'architecture propre et la modélisation de données avancée pour créer des API qui ne sont pas seulement fonctionnelles, mais aussi évolutives et maintenables.
-   <br>
+  <br>
 - **Créer des Expériences Web Modernes :** Avec **Next.js & React Server Components**, j'explore l'avenir du web, visant à créer des interfaces utilisateur ultra-rapides, interactives et optimisées pour le SEO.
-   <br>
+  <br>
 - **Automatiser pour la Fiabilité & la Sécurité :** J'adopte une mentalité DevSecOps en construisant des pipelines CI/CD automatisés avec **Docker & GitHub Actions**. Mon objectif est de garantir que chaque morceau de code est testé, sécurisé et déployé de manière transparente.
-   <br>
+  <br>
 - **Maîtriser les Fondations :** Je renforce constamment mes fondamentaux en **Linux & Sécurité**, du scripting shell et du durcissement des systèmes à la compréhension des principes fondamentaux qui rendent les logiciels sécurisés.
 
+</p>
 ---
 
 ## Mon arsenal technologique principal
@@ -95,12 +97,5 @@ Mon parcours en ingénierie logicielle est guidé par la passion de construire d
 </div>
 
 ---
-
-## Mes Outils de Travail
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,javascript,typescript,nextjs,react,nestjs,postman,linux,ubuntu,kali,mint"  alt=""/>
-  </a>
-</p>
 
 </div>

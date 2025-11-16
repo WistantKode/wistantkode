@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="الزوار" />
   <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="المتابعون" />
-  <img src="https://img.shields.io/github/directory-file-count/wistantkode/wistantkode?label=Repos&style=social" alt="المستودعات" />
+  <img src="https://img.shields.io/github/public-repos/wistantkode?style=social" alt="المستودعات" />
 </p>
 
 ---
@@ -48,16 +48,18 @@
 
 ### 🚀 رحلتي الحالية: بناء المكدس الكامل
 
+<p align="center" dir="rtl">
 رحلتي في هندسة البرمجيات مدفوعة بشغف بناء أنظمة كاملة وقوية وآمنة من الألف إلى الياء. إليك ما أركز عليه حاليًا:
 
 - **هندسة الواجهات الخلفية المرنة:** أتعمق في **NestJS & PostgreSQL**، مع التركيز على مبادئ الهندسة النظيفة ونمذجة البيانات المتقدمة لبناء واجهات برمجة تطبيقات ليست وظيفية فحسب، بل قابلة للتطوير والصيانة أيضًا.
-   <br>
+  <br>
 - **صياغة تجارب ويب حديثة:** مع **Next.js & React Server Components**، أستكشف مستقبل الويب، بهدف إنشاء واجهات مستخدم سريعة وتفاعلية ومحسّنة لمحركات البحث.
-   <br>
+  <br>
 - **الأتمتة من أجل الموثوقية والأمان:** أتبنى عقلية DevSecOps من خلال بناء خطوط أنابيب CI/CD مؤتمتة باستخدام **Docker & GitHub Actions**. هدفي هو ضمان اختبار كل جزء من التعليمات البرمجية وتأمينه ونشره بسلاسة.
-   <br>
+  <br>
 - **إتقان الأساسيات:** أقوم باستمرار بتعزيز أساسياتي في **Linux & Security**، من برمجة النصوص النصية وتقوية النظام إلى فهم المبادئ الأساسية التي تجعل البرامج آمنة.
 
+</p>
 ---
 
 ## ترسانتي التقنية الرئيسية
@@ -95,12 +97,5 @@
 </div>
 
 ---
-
-## أدوات عملي
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,javascript,typescript,nextjs,react,nestjs,postman,linux,ubuntu,kali,mint"  alt=""/>
-  </a>
-</p>
 
 </div>

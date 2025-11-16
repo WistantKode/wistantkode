@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/directory-file-count/wistantkode/wistantkode?label=Repos&style=social" alt="Repos" />
+  <img src="https://img.shields.io/github/public-repos/wistantkode?style=social" alt="Repos" />
 </p>
 
 ---
