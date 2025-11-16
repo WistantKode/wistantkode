@@ -20,8 +20,9 @@
 --- 
 
 <p align="center">
-  <!-- شارة الزوار -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="الزوار" />
+  <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="المتابعون" />
+  <img src="https://img.shields.io/github/directory-file-count/wistantkode/wistantkode?label=Repos&style=social" alt="المستودعات" />
 </p>
 
 ---
