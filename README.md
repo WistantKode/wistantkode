@@ -60,10 +60,11 @@ My journey in software engineering is driven by a passion for building complete,
 - **Mastering the Foundation:** I'm constantly strengthening my fundamentals in **Linux & Security**, from shell scripting and system hardening to understanding the core principles that make software secure.
 
 </p>
+
 ---
 
 ## My principal Tech Arsenal
-             
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
