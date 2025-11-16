@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Hey!+It's+Wistant;DevSecOps+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀">
 </a>
 
-<img src="assets/images/avatar-bg.png" width="400" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>
+<img src="assets/images/github-avatar-bg.png" width="400" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>
 
 --- 
 
