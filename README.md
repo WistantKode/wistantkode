@@ -22,35 +22,35 @@
 
 > Passion over perfection, curiosity over comfort.  
 <br>
-> I’m **Wistant**, a self-taught developer and Software Engineering student focused on **DevSecOps**, **automation**, and **secure scalable systems**.  
-> My journey blends **Next.js**, **NestJS**, and **cloud infrastructure** — bridging frontend creativity with backend precision.
+> I’m Wistant, a self-taught developer and Software Engineering student focused on DevSecOps, automation, and secure scalable systems**.  
+> My journey blends Next.js, NestJS, and cloud infrastructure — bridging frontend creativity with backend precision.
 
 ---
 
 ###  Currently Focused On
--  **NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
+**NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
    <br>
--  **NextJS + React Server Components** → modern performance and scalable web apps
+**NextJS + React Server Components** → modern performance and scalable web apps
    <br>
--  **CI/CD + Docker + GitHub Actions** → continuous deployment mindset
+**CI/CD + Docker + GitHub Actions** → continuous deployment mindset
    <br>
--  **Linux & Security** → scripting, hardening, self-hosted pipelines
+**Linux & Security** → scripting, hardening, self-hosted pipelines
 
 ---
 
 ## 🛠️ Tech Arsenal
-        
+             
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-<br>
+<br>       
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-<br>          
+<br>            
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
