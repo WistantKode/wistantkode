@@ -89,5 +89,5 @@ bridging frontend creativity with backend precision.
   </a>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l)
+[//]: # (![Alt text]&#40;https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l&#41;)
 </div>
