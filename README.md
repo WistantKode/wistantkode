@@ -16,22 +16,35 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
 </p>
 
----
+[//]: # ()
+[//]: # (---)
 
-### 🌐 About Me
+[//]: # ()
+[//]: # (### 🌐 About Me)
 
+[//]: # ()
+[//]: # ()
+[//]: # (<p align="center">)
 
-<p align="center">
-Passion over perfection, curiosity over comfort.  
-<br>
-I’m Wistant, a self-taught developer and Software Engineering student focused on DevSecOps, 
-<br>
-automation, and secure scalable systems.
-<br>
-My journey blends Next.js, NestJS, and cloud infrastructure
-<br>
-bridging frontend creativity with backend precision.
-</p>
+[//]: # (Passion over perfection, curiosity over comfort.  )
+
+[//]: # (<br>)
+
+[//]: # (I’m Wistant, a self-taught developer and Software Engineering student focused on DevSecOps, )
+
+[//]: # (<br>)
+
+[//]: # (automation, and secure scalable systems.)
+
+[//]: # (<br>)
+
+[//]: # (My journey blends Next.js, NestJS, and cloud infrastructure)
+
+[//]: # (<br>)
+
+[//]: # (bridging frontend creativity with backend precision.)
+
+[//]: # (</p>)
 
 ---
 
