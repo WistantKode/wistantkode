@@ -9,6 +9,13 @@
 
 <img src="assets/images/Aziz.png" width="400" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>
 
+--- 
+
+<p align="center">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
+
+
 ---
 
 ### 🌐 About Me
@@ -23,57 +30,53 @@
 ###  Currently Focused On
 -  **NestJS + PostgreSQL** → clean, scalable, robust backend architecture & advanced typing
    <br>
--  **NextJS + React Server Components** → modern performance
+-  **NextJS + React Server Components** → modern performance and scalable web apps
    <br>
 -  **CI/CD + Docker + GitHub Actions** → continuous deployment mindset
    <br>
 -  **Linux & Security** → scripting, hardening, self-hosted pipelines
 
-> _“Write clearly. Automate wisely. Learn endlessly.”_
-
 ---
 
 ## 🛠️ Tech Arsenal
 
-###  Core Stack
+**PL & Framework**        
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-###
+<br>
+**Versioning & DevOps**         
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-
-###
+<br>
+**UI & UX**          
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ###
 
-
-
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-<p align="center">
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
+---
 
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
+---
+
+
+  <!--  Github stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
 <br>
 <p><img align="center" src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" /></p>
 
+---
 
 ## Mes Outils de Travail
 <p align="center">
