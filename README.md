@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="Followers" />
 </p>
 
----
 
 ### My Tech Arsenal
 
@@ -42,7 +41,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/>
 </p>
 
----
 
 <!--  Github stats -->
 <div align="center">
@@ -50,7 +48,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />
   <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" />
 </div>
-
----
 
 </div>
