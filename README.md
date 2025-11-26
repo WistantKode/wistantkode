@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Backend+architect;DevSecOps+practicer;Software+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀" alt="Typing SVG">
 
-<img src="assets/images/github-avatar-bg.png" width="300" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>
+[//]: # (<img src="assets/images/github-avatar-bg.png" width="300" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
