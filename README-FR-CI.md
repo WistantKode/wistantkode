@@ -1,27 +1,27 @@
-<div style="text-align: center;" dir="rtl">
+<div style="text-align: center;">
 
 <p style="text-align: center;">
   <a href="README-ENG.md"><img src="assets/images/flags/ENGLISH-LANG.png" width="30" alt="English"></a>
   &nbsp;
   <a href="README-FR-CM.md"><img src="assets/images/flags/cameroon.jpg" width="30" alt="Français (Cameroun)"></a>
   &nbsp;
-  <a href="README-FR-CI.md"><img src="assets/images/flags/civ.png" width="30" alt="Français (Côte d'Ivoire)"></a>
+  <a href="README-AR-SA.md"><img src="assets/images/flags/ARABIA-LANG.jpg" width="30" alt="العربية"></a>
 </p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="مرحباً" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hi" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=مهندس+برمجيات+خلفية;ممارس+DevSecOps;مهندس+برمجيات+قيد+التكوين;متحمس+للسحابة+والأتمتة;أتعلم+بلا+كلل،+أبني+بذكاء🚀" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Architecte+Backend;Pratiquant+DevSecOps;Ingénieur+Logiciel+en+devenir;Passionné+par+le+Cloud+et+l'Automatisation;Apprendre+sans+cesse,+Construire+intelligemment🚀" alt="Typing SVG">
 
-<img src="assets/images/github-avatar-bg.png" width="300" alt="صورة ويستانت الرمزية" style="border-radius:50%; margin-top:10px;"/>
+<img src="assets/images/github-avatar-bg.png" width="300" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>
 
 <p style="text-align: center;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="الزوار" />
-  <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="المتابعون" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="Followers" />
 </p>
 
 ---
 
-### ترسانتي التقنية الرئيسية
+### Mon Arsenal Technologique Principal
 
 <p style="text-align: center;">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -44,7 +44,7 @@
 
 ---
 
-<!--  إحصائيات Github -->
+<!--  Github stats -->
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />
