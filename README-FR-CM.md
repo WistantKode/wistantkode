@@ -1,14 +1,14 @@
 <div align="center">
 
 <p align="center">
-  <a href="README-FR-CM.md"><img src="assets/images/flags/cameroon.jpg" width="30px" alt="Français (Cameroun)"></a>
+  <a href="README.md"><img src="assets/images/flags/ENGLISH-LANG.png" width="30px" alt="English"></a>
   &nbsp;
   <a href="README-FR-CI.md"><img src="assets/images/flags/civ.png" width="30px" alt="Français (Côte d'Ivoire)"></a>
 </p>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hi" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Backend+architect;DevSecOps+practicer;Software+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Architecte+Backend;Pratiquant+DevSecOps;Ingénieur+Logiciel+en+devenir;Passionné+par+le+Cloud+et+l'Automatisation;Apprendre+sans+cesse,+Construire+intelligemment🚀">
 
 <img src="assets/images/github-avatar-bg.png" width="300" alt="Wistant's Avatar" style="border-radius:50%; margin-top:10px;"/>
 
@@ -19,7 +19,7 @@
 
 ---
 
-### My Tech Arsenal
+### Mon Arsenal Technologique Principal
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
