@@ -1,23 +1,31 @@
 <div align="center">
 
-<img src="assets/wistantkode.png" alt="Wistant Kode" width="898" height="360"/>
-
 <p align="center">
-  &nbsp;
-  <a href="README-FR-CM.md"><img src="assets/images/flags/cameroon.jpg" width="30" alt="Français (Cameroun)"></a>
-  &nbsp;
-  <a href="README-FR-CI.md"><img src="assets/images/flags/civ.png" width="30" alt="Français (Côte d'Ivoire)"></a>
-  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="Followers" />
 </p>
+
+<img src="assets/wistantkode.png" alt="Wistant Kode" width="910" height="360"/>
+
+[//]: # (<p align="center">)
+
+[//]: # (  &nbsp;)
+
+[//]: # (  <a href="README-FR-CM.md"><img src="assets/images/flags/cameroon.jpg" width="30" alt="Français &#40;Cameroun&#41;"></a>)
+
+[//]: # (  &nbsp;)
+
+[//]: # (  <a href="README-FR-CI.md"><img src="assets/images/flags/civ.png" width="30" alt="Français &#40;Côte d'Ivoire&#41;"></a>)
+
+[//]: # (  &nbsp;)
+
+[//]: # (</p>)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hi" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Backend+architect;DevSecOps+practicer;Software+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀" alt="Typing SVG">
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode" alt="Visitors" />
-  <img src="https://img.shields.io/github/followers/wistantkode?style=social" alt="Followers" />
-</p>
+
 
 ---
 
