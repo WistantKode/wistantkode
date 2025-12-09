@@ -4,7 +4,7 @@
 <img src="assets/wistantkode.png" alt="Wistant Kode" width="910" height="360"/>
 ---
 
-### My Technical Stack Arsenal
+### My Tech Arsenal
 
 <table>
   <tr>
@@ -35,15 +35,12 @@
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/wistantkode">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wistantkode&theme=monokai" alt="wistantkode's profile details" />
-  </a>
+---
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's Top Languages" />)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's Top Languages" />
   <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=monokai&border_radius=20" alt="wistantkode's Streak" />
 </div>
-
----
 
 </div>
