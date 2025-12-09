@@ -21,15 +21,14 @@
 
 [//]: # (</p>)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hi" />
+[//]: # (<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hi" />)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Backend+architect;DevSecOps+practicer;Software+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀" alt="Typing SVG">
-
-
+[//]: # ()
+[//]: # (<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Backend+architect;DevSecOps+practicer;Software+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀" alt="Typing SVG">)
 
 ---
 
-### My Tech Arsenal
+### My Technical Stack Arsenal
 
 <table>
   <tr>
