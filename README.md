@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="assets/wistantkode.png" alt="Wistant Kode" width="200"/>
-
-<p align="center">
-  Hi, I'm Wistant Kode, a passionate backend architect and DevSecOps practitioner. I'm currently a Software Engineer in progress, always learning and building intelligently. I'm an enthusiast of cloud and automation technologies.
-</p>
+<img src="assets/wistantkode.png" alt="Wistant Kode" width="898" height="360"/>
 
 <p align="center">
   &nbsp;
