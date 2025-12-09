@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/wistantkode.png" alt="Wistant Kode" width="200"/>
+
+<p align="center">
+  Hi, I'm Wistant Kode, a passionate backend architect and DevSecOps practitioner. I'm currently a Software Engineer in progress, always learning and building intelligently. I'm an enthusiast of cloud and automation technologies.
+</p>
+
 <p align="center">
   &nbsp;
   <a href="README-FR-CM.md"><img src="assets/images/flags/cameroon.jpg" width="30" alt="Français (Cameroun)"></a>
@@ -51,11 +57,17 @@
 </table>
 
 ---
-<!--  Github stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />
-  <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" />
-</div>
+
+[//]: # (<!--  Github stats -->)
+
+[//]: # (<div align="center">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="wistantkode" />)
+
+[//]: # (  <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=algolia&border_radius=20" alt="wistantkode" />)
+
+[//]: # (</div>)
 
 </div>
