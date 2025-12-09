@@ -1,35 +1,7 @@
 <div align="center">
 
-<div align="center">
-  <a href="https://github.com/wistantkode">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wistantkode&theme=monokai" alt="wistantkode's profile details" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=monokai&border_radius=20" alt="wistantkode's Streak" />
-</div>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode&style=for-the-badge&color=bd93f9" alt="Visitors" />
-</p>
 
 <img src="assets/wistantkode.png" alt="Wistant Kode" width="910" height="360"/>
-
-<p align="center">
-  Hi, I'm Wistant Kode, a passionate backend architect and DevSecOps practitioner. I'm currently a Software Engineer in progress, always learning and building intelligently. I'm an enthusiast of cloud and automation technologies.
-</p>
-
-<p align="center">
-  &nbsp;
-  <a href="README-FR-CM.md"><img src="assets/images/flags/cameroon.jpg" width="30" alt="Français (Cameroun)"></a>
-  &nbsp;
-  <a href="README-FR-CI.md"><img src="assets/images/flags/civ.png" width="30" alt="Français (Côte d'Ivoire)"></a>
-  &nbsp;
-</p>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hi" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Backend+architect;DevSecOps+practicer;Software+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀" alt="Typing SVG">
-
 ---
 
 ### My Technical Stack Arsenal
@@ -62,6 +34,15 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/wistantkode">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wistantkode&theme=monokai" alt="wistantkode's profile details" />
+  </a>
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's Top Languages" />)
+  <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=monokai&border_radius=20" alt="wistantkode's Streak" />
+</div>
 
 ---
 
