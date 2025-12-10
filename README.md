@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="assets/wistantkode.png" alt="Wistant Kode" width="910" height="360"/>
+<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="910" height="360"/>
 
 
 ---
