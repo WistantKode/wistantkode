@@ -1,23 +1,8 @@
 <div align="center">
 
-<img src="assets/wistantkode.png" alt="Wistant Kode" width="898" height="360"/>
 
-<p align="center">
-  Hi, I'm Wistant Kode, a passionate backend architect and DevSecOps practitioner. I'm currently a Software Engineer in progress, always learning and building intelligently. I'm an enthusiast of cloud and automation technologies.
-</p>
+<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="915" height="365"/>
 
-<p align="center">
-  &nbsp;
-  <a href="README-FR-CM.md"><img src="assets/images/flags/cameroon.jpg" width="30" alt="Français (Cameroun)"></a>
-  &nbsp;
-  <a href="README-FR-CI.md"><img src="assets/images/flags/civ.png" width="30" alt="Français (Côte d'Ivoire)"></a>
-  &nbsp;
-  <a href="README-AR-SA.md"><img src="assets/images/flags/ARABIA-LANG.jpg" width="30" alt="العربية"></a>
-</p>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hi" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Backend+architect;DevSecOps+practicer;Software+Engineer+in+progress;Cloud+and+Automation+Enthusiast;Learning+Relentlessly,+Building+Intelligently🚀" alt="Typing SVG">
 
 ---
 
@@ -32,7 +17,7 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="NextJS"/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
@@ -54,10 +39,10 @@
 
 ---
 
+### My Github Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=monokai&border_radius=20" alt="wistantkode's Streak" />
 </div>
 
 </div>
