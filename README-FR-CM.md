@@ -1,38 +1,23 @@
 <div align="center">
 
-<img src="assets/wistantkode.png" alt="Wistant Kode" width="898" height="360"/>
 
-<p align="center">
-  Salut, je suis Wistant Kode, un architecte backend passionné et un praticien DevSecOps. Je suis actuellement un ingénieur logiciel en devenir, apprenant et construisant intelligemment sans cesse. Je suis un enthousiaste des technologies cloud et de l'automatisation.
-</p>
+<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="915" height="365"/>
 
-<p align="center">
-  &nbsp;
-  <a href="README-ENG.md"><img src="assets/images/flags/ENGLISH-LANG.png" width="30" alt="English"></a>
-  &nbsp;
-  <a href="README-FR-CI.md"><img src="assets/images/flags/civ.png" width="30" alt="Français (Côte d'Ivoire)"></a>
-  &nbsp;
-  <a href="README-AR-SA.md"><img src="assets/images/flags/ARABIA-LANG.jpg" width="30" alt="العربية"></a>
-</p>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Salut" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=Architecte+Backend;Pratiquant+DevSecOps;Ingénieur+Logiciel+en+devenir;Passionné+par+le+Cloud+et+l'Automatisation;Apprendre+sans+cesse,+Construire+intelligemment🚀" alt="Typing SVG">
 
 ---
 
-### Mon Arsenal Technologique Principal
+### Mon Arsenal Technique
 
 <table>
   <tr>
-    <td align="center"><strong>Pile Principale</strong></td>
-    <td align="center"><strong>Outils & Environnements</strong></td>
-    <td align="center"><strong>UI & Style</strong></td>
+    <td align="center"><strong>Stack</strong></td>
+    <td align="center"><strong>Outis et environnements</strong></td>
+    <td align="center"><strong>Style et UI</strong></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="NextJS"/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
@@ -54,10 +39,10 @@
 
 ---
 
+### Mes statistiques Github 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=monokai&border_radius=20" alt="Statistiques GitHub de wistantkode" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=monokai&border_radius=20" alt="Langages les plus utilisés par wistantkode" />
-  <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=monokai&border_radius=20" alt="Série de contributions de wistantkode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's GitHub Stats" />
 </div>
 
 </div>
