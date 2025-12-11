@@ -1,23 +1,6 @@
 <div align="center" dir="rtl">
 
-<img src="assets/wistantkode.png" alt="Wistant Kode" width="898" height="360"/>
-
-<p align="center">
-  مرحباً، أنا ويستانت كود، مهندس معماري خلفي شغوف وممارس لـ DevSecOps. أنا حالياً مهندس برمجيات قيد التطور، أتعلم وأبني بذكاء بلا كلل. أنا متحمس لتقنيات السحابة والأتمتة.
-</p>
-
-<p align="center">
-  &nbsp;
-  <a href="README-ENG.md"><img src="assets/images/flags/ENGLISH-LANG.png" width="30" alt="English"></a>
-  &nbsp;
-  <a href="README-FR-CM.md"><img src="assets/images/flags/cameroon.jpg" width="30" alt="Français (Cameroun)"></a>
-  &nbsp;
-  <a href="README-FR-CI.md"><img src="assets/images/flags/civ.png" width="30" alt="Français (Côte d'Ivoire)"></a>
-</p>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="مرحباً" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=00F9FF&center=true&vCenter=true&width=600&lines=مهندس+برمجيات+خلفية;ممارس+DevSecOps;مهندس+برمجيات+قيد+التكوين;متحمس+للسحابة+والأتمتة;أتعلم+بلا+كلل،+أبني+بذكاء🚀" alt="Typing SVG">
+<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="898" height="360"/>
 
 ---
 
@@ -56,8 +39,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=monokai&border_radius=20" alt="إحصائيات GitHub لـ wistantkode" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&show_icons=true&theme=monokai&border_radius=20" alt="أكثر اللغات استخداماً بواسطة wistantkode" />
-  <img src="https://streak-stats.demolab.com?user=wistantkode&count_private=true&theme=monokai&border_radius=20" alt="سلسلة مساهمات wistantkode" />
 </div>
 
 </div>
