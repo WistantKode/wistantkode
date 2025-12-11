@@ -6,7 +6,6 @@
 
 ---
 
-
 ### My Tech Arsenal
 
 <table>
