@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Core Stack</strong></td>
+    <td align="center"><strong>CoreStack</strong></td>
     <td align="center"><strong>Tools  & Environments</strong></td>
     <td align="center"><strong>UI & Styling</strong></td>
   </tr>
