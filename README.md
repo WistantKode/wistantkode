@@ -47,5 +47,7 @@
     alt="wistantkode's GitHub Stats" 
   />
 </div>
+![GitHub Streak](https://streak-stats.demolab.com?user=wistantkode&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true)
 
 </div>
