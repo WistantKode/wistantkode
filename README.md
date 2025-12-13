@@ -46,7 +46,7 @@
 
 ---
 
-### My GitHub Analytics
+### 📊 My GitHub Analytics
 
 <div align="center">
 
