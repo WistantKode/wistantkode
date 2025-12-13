@@ -52,40 +52,30 @@
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16"
-  alt="GitHub Stats"
-/>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-### 🔥 Consistency & Momentum
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=wistantkode&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-### ⚡ Activity Timeline
-
-<div align="center">
+<br/>
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true"
@@ -95,14 +85,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-✨ *Building systems. Shipping ideas. Learning every day.*  
-<br/>
-🚀 *Let’s build something meaningful.*
-
-</div>
 
 
 </div>
