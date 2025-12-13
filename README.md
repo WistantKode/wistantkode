@@ -2,9 +2,7 @@
 
 <img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="915" height="365"/>
 
-
 ---
-
 
 ### My Tech Arsenal
 
@@ -39,22 +37,7 @@
 
 ---
 
-### My Github Stats
-
-<div align="center">
-  <img  
-    src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=monokai&border_radius=20" 
-    alt="wistantkode's GitHub Stats" 
-  />
-</div>
-
-
-
----
-
----
-
-### 📊 GitHub Analytics
+### My GitHub Analytics
 
 <div align="center">
 
@@ -74,9 +57,7 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true"
   alt="Activity Graph"
