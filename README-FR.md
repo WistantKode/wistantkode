@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center"><strong>Stack</strong></td>
-    <td align="center"><strong>Outis et environnements</strong></td>
+    <td align="center"><strong>Outils et environnements</strong></td>
     <td align="center"><strong>Style et UI</strong></td>
   </tr>
   <tr>
