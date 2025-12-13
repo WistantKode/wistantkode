@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>
+[//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
+
+
+### 🌐 About Me
+
+> Passion over perfection, curiosity over comfort.  
+<br>
+> I’m **Wistant**,TypeScript lover , I'm a self-taught developer and Software Engineering student focused on build **secure scalable systems**, **Robust and power architectures**.  
+> Passionate by **Devops** culture and methods 
+
 
 ---
 
