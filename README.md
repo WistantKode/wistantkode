@@ -8,7 +8,7 @@
 > Passion over perfection, curiosity over comfort.  
 <br>
 > I’m **Wistant**,TypeScript lover , I'm a self-taught developer and Software Engineering student focused on build **secure scalable systems**, **Robust and power architectures**.  
-> Passionate by **Devops** culture and methods 
+> Passionate by **Devops** culture and methods combinate with **cloud** univers , I'm sure that I'll build seriously solutions for IT world.
 
 
 ---
