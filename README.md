@@ -1,18 +1,18 @@
 <div align="center">
 
-
 <img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="915" height="365"/>
 
 
 ---
 
+
 ### My Tech Arsenal
 
 <table>
   <tr>
-    <td align="center"><strong>Core  Stack</strong></td>
-    <td align="center"><strong>Tools & Environments</strong></td>
-    <td align="center"><strong>UI  &  Styling</strong></td>
+    <td align="center"><strong>CoreStack</strong></td>
+    <td align="center"><strong>Tools  & Environments</strong></td>
+    <td align="center"><strong>UI & Styling</strong></td>
   </tr>
   <tr>
     <td align="center">
