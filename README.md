@@ -47,7 +47,62 @@
     alt="wistantkode's GitHub Stats" 
   />
 </div>
-![GitHub Streak](https://streak-stats.demolab.com?user=wistantkode&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true)
+
+
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16"
+  alt="Top Languages"
+/>
+
+</div>
+
+---
+
+### 🔥 Consistency & Momentum
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=wistantkode&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+### ⚡ Activity Timeline
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true"
+  alt="Activity Graph"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *Building systems. Shipping ideas. Learning every day.*  
+<br/>
+🚀 *Let’s build something meaningful.*
+
+</div>
+
 
 </div>
