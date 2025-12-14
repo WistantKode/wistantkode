@@ -1,14 +1,23 @@
 <div align="center">
 
-<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>
+[//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
+
+
+### 🌐 About Me
+
+> Passion over perfection, curiosity over comfort.  
+<br>
+> I’m **Wistant**,TypeScript lover , I'm a self-taught developer and Software Engineering student focused on build **secure scalable systems**, **Robust and power architectures**.  
+> Passionate about **Devops** culture and methods combinate with **cloud** univers , I'm sure that I'll build seriously solutions for IT world.
+
 
 ---
 
-### My Tech Arsenal
+### 🚀 My Tech Arsenal
 
 <table>
   <tr>
-    <td align="center"><strong>CoreStack</strong></td>
+    <td align="center"><strong>Core Stack</strong></td>
     <td align="center"><strong>Tools  & Environments</strong></td>
     <td align="center"><strong>UI & Styling</strong></td>
   </tr>
@@ -37,7 +46,7 @@
 
 ---
 
-### My GitHub Analytics
+### 📊 My GitHub Analytics
 
 <div align="center">
 
@@ -66,6 +75,4 @@
 </div>
 
 ---
-
-
 </div>
