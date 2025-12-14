@@ -5,10 +5,7 @@
 
 ### 🌐 About Me
 
-> Passion over perfection, curiosity over comfort.  
-<br>
-> I’m **Wistant**,TypeScript lover , I'm a self-taught developer and Software Engineering student focused on build **secure scalable systems**, **Robust and power architectures**.  
-> Passionate about **Devops** culture and methods combinate with **cloud** univers , I'm sure that I'll build seriously solutions for IT world.
+> I'm *Wistant*, a self-taught developer and Software Engineering student. My focus is on building **secure, scalable systems** and **robust, powerful architectures**. I'm a TypeScript enthusiast and I'm passionate about DevOps culture and cloud technologies. I am confident in my ability to build serious solutions for the IT world.
 
 
 ---
