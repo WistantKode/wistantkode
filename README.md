@@ -3,7 +3,7 @@
 [//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
 
 
-### 🌐 About Me
+### About Me
 
 > I'm *Wistant*, a self-taught developer and Software Engineering student. My focus is on building **secure, scalable systems** and **robust, powerful architectures**. I'm a TypeScript enthusiast and I'm passionate about DevOps culture and cloud technologies. I am confident in my ability to build serious solutions for the IT world.
 
