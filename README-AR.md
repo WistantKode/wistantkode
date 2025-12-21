@@ -5,7 +5,6 @@
 
 ---
 ### ترسانتي التقنية الرئيسية
-
 <table>
   <tr>
     <td align="center"><strong>المكدس الأساسي</strong></td>
