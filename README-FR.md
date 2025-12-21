@@ -1,18 +1,26 @@
 <div align="center">
 
+[//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
 
-<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="915" height="365"/>
+
+### About Me 😼
+
+> I'm *Wistant*, a self-taught developer and Software Engineering student driven by a passion for building secure, scalable systems and robust architectures. As a *TypeScript* enthusiast, I specialize in full-stack development with React for front-end, Node.js for back-end architectures and I'd creating innovative projects like AI-powered interview platforms (Talent IQ), medical consultation apps (Medicare), Full Appointment medical platform (HayeckCare). 
+
+> I'm deeply immersed in DevOps culture—mastering CI/CD pipelines, Docker, and cloud technologies like AWS and Vercel—to deliver production-ready solutions. Confident in tackling complex challenges, I thrive on turning ideas into serious, enterprise-grade IT solutions that drive impact. I love IT world. I love innovation.
 
 
 ---
 
-### Mon Arsenal Technique
+
+###  My Tech Arsenal 😼
+
 
 <table>
   <tr>
-    <td align="center"><strong>Stack</strong></td>
-    <td align="center"><strong>Outils et environnements</strong></td>
-    <td align="center"><strong>Style et UI</strong></td>
+    <td align="center"><strong>Core Stack 🟢</strong></td>
+    <td align="center"><strong>Tools  & Environments 🟣</strong></td>
+    <td align="center"><strong>UI & Styling 🔴</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -37,12 +45,63 @@
   </tr>
 </table>
 
+
+
+
+
+[//]: # (### My GitHub Analytics)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # (<table>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td>)
+
+[//]: # (      <img)
+
+[//]: # (        src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16")
+
+[//]: # (        alt="GitHub Stats")
+
+[//]: # (      />)
+
+[//]: # (    </td>)
+
+[//]: # (    <td>)
+
+[//]: # (      <img)
+
+[//]: # (        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16")
+
+[//]: # (        alt="Top Languages")
+
+[//]: # (      />)
+
+[//]: # (    </td>)
+
+[//]: # (  </tr>)
+
+[//]: # (</table>)
+
+[//]: # (<br/>)
+
+[//]: # (<img)
+
+[//]: # (  src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true")
+
+[//]: # (  alt="Activity Graph")
+
+[//]: # (/>)
+
+[//]: # ()
+[//]: # (</div>)
+
+
 ---
 
-### Mes statistiques Github
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&hide=stars&count_private=true&show_icons=true&theme=monokai&border_radius=20" alt="wistantkode's GitHub Stats" />
-</div>
 
 </div>
