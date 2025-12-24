@@ -9,12 +9,9 @@
 
 > I'm deeply immersed in DevOps culture—mastering CI/CD pipelines, Docker, and cloud technologies like AWS and Vercel—to deliver production-ready solutions. Confident in tackling complex challenges, I thrive on turning ideas into serious, enterprise-grade IT solutions that drive impact. I love IT world. I love innovation.
 
-
 ---
 
-
 ###  My Tech Arsenal 😼
-
 
 <table>
   <tr>
@@ -44,7 +41,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
