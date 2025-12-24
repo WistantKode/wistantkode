@@ -14,7 +14,6 @@
 
 ###  My Tech Arsenal 😼
 
-
 <table>
   <tr>
     <td align="center"><strong>Core Stack 🟢</strong></td>
