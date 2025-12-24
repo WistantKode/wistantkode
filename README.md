@@ -48,58 +48,6 @@
 
 
 
-[//]: # (### My GitHub Analytics)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # ()
-[//]: # (<table>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td>)
-
-[//]: # (      <img)
-
-[//]: # (        src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16")
-
-[//]: # (        alt="GitHub Stats")
-
-[//]: # (      />)
-
-[//]: # (    </td>)
-
-[//]: # (    <td>)
-
-[//]: # (      <img)
-
-[//]: # (        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16")
-
-[//]: # (        alt="Top Languages")
-
-[//]: # (      />)
-
-[//]: # (    </td>)
-
-[//]: # (  </tr>)
-
-[//]: # (</table>)
-
-[//]: # (<br/>)
-
-[//]: # (<img)
-
-[//]: # (  src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true")
-
-[//]: # (  alt="Activity Graph")
-
-[//]: # (/>)
-
-[//]: # ()
-[//]: # (</div>)
-
-
 ---
 
 
