@@ -34,7 +34,7 @@
       <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
       <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    </td>
+    </td> 
     <td align="center">
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
       <img src="https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=react" alt="Shadcn/UI"/>
