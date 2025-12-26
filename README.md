@@ -21,7 +21,7 @@
     <td align="center"><strong>Tools  & Environments 🟣</strong></td>
     <td align="center"><strong>UI & Styling 🔴</strong></td>
   </tr>
-  <tr> 
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="NextJS"/>
