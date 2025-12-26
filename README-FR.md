@@ -12,8 +12,7 @@
 
 ---
 
-###  My Tech Arsenal 🚀
-
+###  My Tech Arsenal 
 
 <table>
   <tr>
