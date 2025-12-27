@@ -3,15 +3,22 @@
 [//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
 
 
-### About Me 😼
+### About Me
 
-> I'm *Wistant*, a self-taught developer and Software Engineering student driven by a passion for building secure, scalable systems and robust architectures. As a *TypeScript* enthusiast, I specialize in full-stack development with React for front-end, Node.js for back-end architectures and I'd creating innovative projects like AI-powered interview platforms (Talent IQ), medical consultation apps (Medicare), Full Appointment medical platform (HayeckCare). 
+
+> I'm *Wistant*, a self-taught developer and Software Engineering student driven by a passion for building secure, scalable systems and robust architectures. As a *TypeScript* enthusiast, I specialize in full-stack development with React for front-end, Node.js for robust , powerfull and perfects back-end architectures.
 
 > I'm deeply immersed in DevOps culture—mastering CI/CD pipelines, Docker, and cloud technologies like AWS and Vercel—to deliver production-ready solutions. Confident in tackling complex challenges, I thrive on turning ideas into serious, enterprise-grade IT solutions that drive impact. I love IT world. I love innovation.
 
+> I'd creating innovative projects like AI-powered interview platforms (Talent IQ), medical consultation apps (Medicare), Full Appointment medical platform (HayeckCare).My Github have all my side work. You can Check here :(my repositories)[https://github.com/wistantkode/tab=?repositories]
+
+
 ---
 
-###  My Tech Arsenal 😼
+
+###  My Tech Arsenal
+
+
 
 <table>
   <tr>
@@ -97,7 +104,7 @@
 [//]: # (</div>)
 
 
----
 
+---
 
 </div>
