@@ -13,8 +13,6 @@
 > I'd creating innovative projects like AI-powered interview platforms (Talent IQ), medical consultation apps (Medicare), Full Appointment medical platform (HayeckCare).My Github have all my side work. You can Check here :(my repositories)[https://github.com/wistantkode/tab=?repositories]
 
 
-
-
 ---
 
 
