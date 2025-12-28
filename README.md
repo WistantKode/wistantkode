@@ -10,7 +10,7 @@
 
 ---
 
-###  My Tech Arsenal
+###  My Dev Arsenal
 
 <table>
   <tr>
