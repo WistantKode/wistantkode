@@ -3,28 +3,28 @@
 [//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
 
 
-### About Me
+### À propos de moi
 
 
-> I'm *Wistant*, a self-taught developer and Software Engineering student driven by a passion for building secure, scalable systems and robust architectures. As a *TypeScript* enthusiast, I specialize in full-stack development with React for front-end, Node.js for robust , powerfull and perfects back-end architectures.
+> Je suis *Wistant*, développeur autodidacte et étudiant en génie logiciel, animé par la passion de construire des systèmes sécurisés, évolutifs et des architectures robustes. Passionné par *TypeScript*, je me spécialise dans le développement full-stack avec React pour le front-end, ainsi que Node.js pour des architectures back-end performantes et fiables.
 
-> I'm deeply immersed in DevOps culture—mastering CI/CD pipelines, Docker, and cloud technologies like AWS and Vercel—to deliver production-ready solutions. Confident in tackling complex challenges, I thrive on turning ideas into serious, enterprise-grade IT solutions that drive impact. I love IT world. I love innovation.
+> Je suis profondément immergé dans la culture DevOps — maîtrisant les pipelines CI/CD, Docker et les technologies cloud comme AWS et Vercel — pour livrer des solutions prêtes pour la production. Confiant face aux défis complexes, j'aime transformer des idées en solutions informatiques d'entreprise sérieuses et impactantes. J'aime le monde de l'IT. J'aime l'innovation.
 
-> I'd creating innovative projects like AI-powered interview platforms (Talent IQ), medical consultation apps (Medicare), Full Appointment medical platform (HayeckCare).My Github have all my side work. You can Check here :(my repositories)[https://github.com/wistantkode/tab=?repositories]
+> J'ai créé des projets innovants tels que des plateformes d'entretien alimentées par l'IA (Talent IQ), des applications de consultation médicale (Medicare) et des plateformes de gestion de rendez-vous médicaux (HayeckCare). Mon GitHub regroupe tous mes projets personnels. Vous pouvez les consulter ici : [mes dépôts](https://github.com/wistantkode?tab=repositories)
 
 
 ---
 
 
-###  My Tech Arsenal
+###  Mon Arsenal Technique
 
 
 
 <table>
   <tr>
-    <td align="center"><strong>Core Stack 🟢</strong></td>
-    <td align="center"><strong>Tools  & Environments 🟣</strong></td>
-    <td align="center"><strong>UI & Styling 🔴</strong></td>
+    <td align="center"><strong>Stack Principale 🟢</strong></td>
+    <td align="center"><strong>Outils & Environnements 🟣</strong></td>
+    <td align="center"><strong>UI & Styles 🔴</strong></td>
   </tr>
   <tr>
     <td align="center">
