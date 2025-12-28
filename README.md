@@ -8,7 +8,7 @@
 
 > I'm deeply immersed in DevOps culture—mastering CI/CD pipelines, Docker, and cloud technologies like AWS and Vercel—to deliver production-ready solutions. Confident in tackling complex challenges, I thrive on turning ideas into serious, enterprise-grade IT solutions that drive impact. I love the IT world. I love innovation.
 
-> I have created innovative projects such as AI-powered interview platforms (Talent IQ), medical consultation apps (Medicare), and comprehensive medical appointment platforms (HayeckCare). My GitHub hosts all my personal projects. You can check them here: [my repositories](https://github.com/wistantkode?tab=repositories)
+> I have created innovative projects such as AI-powered interview platforms (Talent IQ), medical consultation apps (Medicare), and comprehensive medical appointment platforms (HayeckCare). My GitHub hosts all my personal projects. You can check them here: [My Works](https://github.com/wistantkode?tab=repositories)
 
 
 ---
