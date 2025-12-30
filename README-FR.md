@@ -14,11 +14,7 @@
 > J'ai créé des projets innovants tels que des plateformes d'entretien alimentées par l'IA (Talent IQ), des applications de consultation médicale (Medicare) et des plateformes de gestion de rendez-vous médicaux (HayeckCare). Mon GitHub regroupe tous mes projets personnels. Vous pouvez les consulter ici : [mes dépôts](https://github.com/wistantkode?tab=repositories)
 
 
-
-
-
 ---
-
 
 ###  Mon Arsenal Technique
 
