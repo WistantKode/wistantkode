@@ -10,6 +10,7 @@
 
 > Je suis profondément immergé dans la culture DevOps — maîtrisant les pipelines CI/CD, Docker et les technologies cloud comme AWS et Vercel — pour livrer des solutions prêtes pour la production. Confiant face aux défis complexes, j'aime transformer des idées en solutions informatiques d'entreprise sérieuses et impactantes. J'aime le monde de l'IT. J'aime l'innovation.
 
+
 > J'ai créé des projets innovants tels que des plateformes d'entretien alimentées par l'IA (Talent IQ), des applications de consultation médicale (Medicare) et des plateformes de gestion de rendez-vous médicaux (HayeckCare). Mon GitHub regroupe tous mes projets personnels. Vous pouvez les consulter ici : [mes dépôts](https://github.com/wistantkode?tab=repositories)
 
 
