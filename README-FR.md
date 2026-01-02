@@ -16,11 +16,7 @@
 
 ---
 
-
-
-
 ###  Mon Arsenal Technique
-
 
 
 
