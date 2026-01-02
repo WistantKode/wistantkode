@@ -2,7 +2,7 @@
 
 [//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
 
-\dd
+\d
 ### À propos de moi
 
 
