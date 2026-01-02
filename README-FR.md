@@ -2,7 +2,6 @@
 
 [//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
 
-
 ### À propos de moi
 
 
@@ -15,10 +14,7 @@
 
 ---
 
-
 ###  Mon Arsenal Technique
-
-
 
 <table>
   <tr>
@@ -48,9 +44,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 [//]: # (### My GitHub Analytics)
 
