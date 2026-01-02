@@ -4,7 +4,7 @@
 
 
 
-\d   dead
+d   dead
 ### À propos de moi
 
 
