@@ -3,7 +3,7 @@
 [//]: # (<img src="assets/wistantkode-banner.png" alt="Wistant Kode" width="815" height="300"/>)
 
 
-dead
+
 ### À propos de moi
 
 
