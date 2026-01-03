@@ -5,7 +5,6 @@
 
 ### À propos de moi
 
-
 > Je suis *Wistant*, développeur autodidacte et étudiant en génie logiciel, animé par la passion de construire des systèmes sécurisés, évolutifs et des architectures robustes. Passionné par *TypeScript*, je me spécialise dans le développement full-stack avec React pour le front-end, ainsi que Node.js pour des architectures back-end performantes et fiables.
 
 > Je suis profondément immergé dans la culture DevOps — maîtrisant les pipelines CI/CD, Docker et les technologies cloud comme AWS et Vercel — pour livrer des solutions prêtes pour la production. Confiant face aux défis complexes, j'aime transformer des idées en solutions informatiques d'entreprise sérieuses et impactantes. J'aime le monde de l'IT. J'aime l'innovation.
