@@ -1,25 +1,33 @@
 <div align="center">
 
-# [English] | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
+# [English](./README.md) | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية]
 
 <!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
-### 👋 About Me
+<div dir="rtl">
+
+### 👋 نبذة عني
 
 <img src="assets/avatar.png" alt="Wistant" width="120" style="border-radius: 50%"/>
 
-> I am **Wistant**, a self-taught developer and Software Engineering student. I am passionate about building **secure, scalable systems** and **robust architectures**. As a **TypeScript enthusiast**, I specialize in full-stack development using **React/Next.js** for modern front-ends and **Node.js/NestJS** for high-performance back-ends.
+> أنا **ويستانت**، مطور تعلم ذاتياً وطالب هندسة برمجيات. لدي شغف ببناء **أنظمة آمنة وقابلة للتطوير** و**بنى تحتية قوية**. بصفتي متحمساً لـ **TypeScript**، أنا متخصص في تطوير الـ Full-stack باستخدام **React/Next.js** للواجهات الأمامية الحديثة، و **Node.js/NestJS** للواجهات الخلفية عالية الأداء.
 
-> I am deeply committed to **DevOps culture**—mastering containerization, automation, CI/CD pipelines, and cloud technologies to deliver production-ready solutions. I thrive on turning complex ideas into **enterprise-grade IT solutions** that drive impact.
+> أنا منغمس بعمق في **ثقافة DevOps** — أتقن تقنيات التحوية (Containerization)، والأتمتة، وخطوط CI/CD، وتقنيات السحاب لإيصال حلول جاهزة للإنتاج. أحب تحويل الأفكار المعقدة إلى **حلول تقنية للشركات** ذات تأثير كبير.
+
+</div>
 
 ---
 
-### My Tech Arsenal
+<div dir="rtl">
+
+### ترسانتي التقنية
+
+</div>
 
 <table>
   <tr>
-    <td align="center" width="50%"><strong>Frontend & Backend</strong></td>
-    <td align="center" width="50%"><strong>UI & Styling</strong></td>
+    <td align="center" width="50%"><strong>الواجهة الأمامية والخلفية</strong></td>
+    <td align="center" width="50%"><strong>واجهة المستخدم والتصميم</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -37,13 +45,17 @@
   </tr>
 </table>
 
-### DevOps & Infrastructure
+<div dir="rtl">
+
+### الـ DevOps والبنية التحتية
+
+</div>
 
 <table>
   <tr>
-    <td align="center" width="33%"><strong>System & Scripting</strong></td>
-    <td align="center" width="33%"><strong>Version Control & Cloud</strong></td>
-    <td align="center" width="33%"><strong>Containers</strong></td>
+    <td align="center" width="33%"><strong>النظام والبرمجة</strong></td>
+    <td align="center" width="33%"><strong>إدارة النسخ والسحاب</strong></td>
+    <td align="center" width="33%"><strong>الحاويات</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -64,7 +76,11 @@
 
 <!-- ---
 
-### GitHub Analytics
+<div dir="rtl">
+
+### إحصائيات GitHub
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub Stats" />
@@ -75,7 +91,11 @@
 
 ---
 
-### Connect with Me
+<div dir="rtl">
+
+### تواصل معي
+
+</div>
 
 <p align="center">
   <a href="https://github.com/wistantkode?tab=repositories">
