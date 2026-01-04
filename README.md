@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-<img src="assets/avatar.png" alt="Wistant" width="120" style="border-radius: 50%"/>
+<!-- <img src="assets/avatar.png" alt="Wistant" width="120" style="border-radius: 50%"/> -->
 
 > I am **Wistant**, a self-taught developer and Software Engineering student. I am passionate about building **secure, scalable systems** and **robust architectures**. As a **TypeScript enthusiast**, I specialize in full-stack development using **React/Next.js** for modern front-ends and **Node.js/NestJS** for high-performance back-ends.
 
