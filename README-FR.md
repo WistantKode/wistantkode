@@ -2,7 +2,7 @@
 
 # [English](./README.md) | [Français] | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
 
-<img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/>
+<!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
 ### 👋 À propos de moi
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Mon Arsenal Technique
+### Mon Arsenal Technique
 
 <table>
   <tr>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### 🚀 DevOps & Infrastructure
+### DevOps & Infrastructure
 
 <table>
   <tr>

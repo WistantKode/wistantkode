@@ -2,7 +2,7 @@
 
 # [English](./README.md) | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文] | [العربية](./README.ar.md)
 
-<img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/>
+<!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
 ### 👋 关于我
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ 我的技术栈
+### 我的技术栈
 
 <table>
   <tr>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### 🚀 DevOps 与基础设施
+### DevOps 与基础设施
 
 <table>
   <tr>
@@ -62,20 +62,20 @@
   </tr>
 </table>
 
----
+<!-- ---
 
-### 📊 GitHub 数据统计
+### GitHub 数据统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
+</div> -->
 
 ---
 
-### 📫 联系我
+### 联系我
 
 <p align="center">
   <a href="https://github.com/wistantkode?tab=repositories">

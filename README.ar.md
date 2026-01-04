@@ -2,7 +2,7 @@
 
 # [English](./README.md) | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية]
 
-<img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/>
+<!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
 <div dir="rtl">
 
@@ -20,7 +20,7 @@
 
 <div dir="rtl">
 
-### 🛠️ ترسانتي التقنية
+### ترسانتي التقنية
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div dir="rtl">
 
-### 🚀 الـ DevOps والبنية التحتية
+### الـ DevOps والبنية التحتية
 
 </div>
 
@@ -74,11 +74,11 @@
   </tr>
 </table>
 
----
+<!-- ---
 
 <div dir="rtl">
 
-### 📊 إحصائيات GitHub
+### إحصائيات GitHub
 
 </div>
 
@@ -87,13 +87,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
+</div> -->
 
 ---
 
 <div dir="rtl">
 
-### 📫 تواصل معي
+### تواصل معي
 
 </div>
 
