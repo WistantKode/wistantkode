@@ -1,25 +1,25 @@
 <div align="center">
 
-# [English] | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
+# [English](./README.md) | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文] | [العربية](./README.ar.md)
 
 <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/>
 
-### 👋 About Me
+### 👋 关于我
 
 <img src="assets/avatar.png" alt="Wistant" width="120" style="border-radius: 50%"/>
 
-> I am **Wistant**, a self-taught developer and Software Engineering student. I am passionate about building **secure, scalable systems** and **robust architectures**. As a **TypeScript enthusiast**, I specialize in full-stack development using **React/Next.js** for modern front-ends and **Node.js/NestJS** for high-performance back-ends.
+> 我是 **Wistant**，一名自学成才的开发者和软件工程专业学生。我热衷于构建**安全、可扩展的系统**和**稳健的架构**。作为一名 **TypeScript 爱好者**，我专注于全栈开发，前端使用 **React/Next.js**，后端使用高性能的 **Node.js/NestJS**。
 
-> I am deeply committed to **DevOps culture**—mastering containerization, automation, CI/CD pipelines, and cloud technologies to deliver production-ready solutions. I thrive on turning complex ideas into **enterprise-grade IT solutions** that drive impact.
+> 我深受 **DevOps 文化**的影响——精通容器化、自动化、CI/CD 流水线和云技术，致力于交付生产级别的解决方案。我擅长将复杂创意转化为具有影响力的**企业级 IT 解决方案**。
 
 ---
 
-### 🛠️ My Tech Arsenal
+### 🛠️ 我的技术栈
 
 <table>
   <tr>
-    <td align="center" width="50%"><strong>Frontend & Backend</strong></td>
-    <td align="center" width="50%"><strong>UI & Styling</strong></td>
+    <td align="center" width="50%"><strong>前端与后端</strong></td>
+    <td align="center" width="50%"><strong>UI 与样式</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -37,13 +37,13 @@
   </tr>
 </table>
 
-### 🚀 DevOps & Infrastructure
+### 🚀 DevOps 与基础设施
 
 <table>
   <tr>
-    <td align="center" width="33%"><strong>System & Scripting</strong></td>
-    <td align="center" width="33%"><strong>Version Control & Cloud</strong></td>
-    <td align="center" width="33%"><strong>Containers</strong></td>
+    <td align="center" width="33%"><strong>系统与脚本</strong></td>
+    <td align="center" width="33%"><strong>版本控制与云端</strong></td>
+    <td align="center" width="33%"><strong>容器化</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub 数据统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub Stats" />
@@ -75,7 +75,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 联系我
 
 <p align="center">
   <a href="https://github.com/wistantkode?tab=repositories">

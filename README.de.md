@@ -1,20 +1,20 @@
 <div align="center">
 
-# [English] | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
+# [English](./README.md) | [Français](./README-FR.md) | [Deutsch] | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
 
 <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/>
 
-### 👋 About Me
+### 👋 Über mich
 
 <img src="assets/avatar.png" alt="Wistant" width="120" style="border-radius: 50%"/>
 
-> I am **Wistant**, a self-taught developer and Software Engineering student. I am passionate about building **secure, scalable systems** and **robust architectures**. As a **TypeScript enthusiast**, I specialize in full-stack development using **React/Next.js** for modern front-ends and **Node.js/NestJS** for high-performance back-ends.
+> Ich bin **Wistant**, ein autodidaktischer Entwickler und Informatik-Student. Meine Leidenschaft gilt dem Aufbau **sicherer, skalierbarer Systeme** und **robuster Architekturen**. Als **TypeScript-Enthusiast** bin ich spezialisiert auf Full-Stack-Entwicklung mit **React/Next.js** für moderne Front-Ends und **Node.js/NestJS** für hochperformante Back-Ends.
 
-> I am deeply committed to **DevOps culture**—mastering containerization, automation, CI/CD pipelines, and cloud technologies to deliver production-ready solutions. I thrive on turning complex ideas into **enterprise-grade IT solutions** that drive impact.
+> Ich lebe die **DevOps-Kultur** — ich beherrsche Containerisierung, Automatisierung, CI/CD-Pipelines und Cloud-Technologien, um produktionsreife Lösungen zu liefern. Ich liebe es, komplexe Ideen in **hochwertige IT-Lösungen für Unternehmen** zu verwandeln.
 
 ---
 
-### 🛠️ My Tech Arsenal
+### 🛠️ Mein Technik-Arsenal
 
 <table>
   <tr>
@@ -37,13 +37,13 @@
   </tr>
 </table>
 
-### 🚀 DevOps & Infrastructure
+### 🚀 DevOps & Infrastruktur
 
 <table>
   <tr>
     <td align="center" width="33%"><strong>System & Scripting</strong></td>
-    <td align="center" width="33%"><strong>Version Control & Cloud</strong></td>
-    <td align="center" width="33%"><strong>Containers</strong></td>
+    <td align="center" width="33%"><strong>Versionsverwaltung & Cloud</strong></td>
+    <td align="center" width="33%"><strong>Container</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub-Statistiken
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub Stats" />
@@ -75,7 +75,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Kontaktiere mich
 
 <p align="center">
   <a href="https://github.com/wistantkode?tab=repositories">
