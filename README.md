@@ -2,7 +2,7 @@
 
 # [English] | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
 
-<img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/>
+<!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
 ### 👋 About Me
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ My Tech Arsenal
+### My Tech Arsenal
 
 <table>
   <tr>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### 🚀 DevOps & Infrastructure
+### DevOps & Infrastructure
 
 <table>
   <tr>
@@ -62,20 +62,20 @@
   </tr>
 </table>
 
----
+<!-- ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
+</div> -->
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://github.com/wistantkode?tab=repositories">
