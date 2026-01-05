@@ -12,7 +12,6 @@
 
 > I am deeply committed to **DevOps culture** — mastering containerization, automation, CI/CD pipelines, and cloud technologies to deliver production-ready solutions. I thrive on turning complex ideas into **enterprise-grade IT solutions** that drive impact.
 
-
 ---
 
 ### My Tech Arsenal
