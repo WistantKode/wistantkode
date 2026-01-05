@@ -1,6 +1,6 @@
 <div align="center">
 
-# [English](./README.md) | [Français](./README-FR.md) | [Deutsch] | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
+# [English](./README.md) | [Français](./README.fr.md) | [Deutsch] | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
 
 <!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
