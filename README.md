@@ -1,6 +1,6 @@
 <div align="center">
 
-](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)-->
+](./de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)-->
 
 ### Hi 👋, I'm Wistant
 
