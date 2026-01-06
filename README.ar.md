@@ -1,109 +1,24 @@
 <div align="center">
 
-# [English](./README.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية]
+# [English](./README.md) | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية]
 
-<!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
+### مرحبًا 👋، أنا Wistant
 
-<div dir="rtl">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=%D8%B7%D8%A7%D9%84%D8%A8+%D9%87%D9%86%D8%AF%D8%B3%D8%A9+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA;%D9%85%D8%B7%D9%88%D8%B1+Full-Stack;%D8%B4%D8%BA%D9%88%D9%81+%D8%A8%D9%80+DevOps;%D9%85%D8%B3%D8%A7%D9%87%D9%85+%D9%81%D9%8A+%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%AF%D8%B1+%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9;%D8%B9%D8%A7%D8%B4%D9%82+%D9%84%D9%80+TypeScript&duration=3000" alt="Typing SVG" />
 
-### 👋 نبذة عني
+<a href="mailto:wistantkode@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/237697135341"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://linkedin.com/in/wistantkode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 
-<img src="assets/avatar.png" alt="Wistant" width="120" style="border-radius: 50%"/>
+<br/><br/>
 
-> أنا **ويستانت**، مطور تعلم ذاتياً وطالب هندسة برمجيات. لدي شغف ببناء **أنظمة آمنة وقابلة للتطوير** و**بنى تحتية قوية**. بصفتي متحمساً لـ **TypeScript**، أنا متخصص في تطوير الـ Full-stack باستخدام **React/Next.js** للواجهات الأمامية الحديثة، و **Node.js/NestJS** للواجهات الخلفية عالية الأداء.
-
-> أنا منغمس بعمق في **ثقافة DevOps** — أتقن تقنيات التحوية (Containerization)، والأتمتة، وخطوط CI/CD، وتقنيات السحاب لإيصال حلول جاهزة للإنتاج. أحب تحويل الأفكار المعقدة إلى **حلول تقنية للشركات** ذات تأثير كبير.
-
-</div>
-
----
-
-<div dir="rtl">
-
-### ترسانتي التقنية
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="50%"><strong>الواجهة الأمامية والخلفية</strong></td>
-    <td align="center" width="50%"><strong>واجهة المستخدم والتصميم</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="NextJS"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
-      <img src="https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=react" alt="Shadcn/UI"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/>
-    </td>
-  </tr>
-</table>
-
-<div dir="rtl">
-
-### الـ DevOps والبنية التحتية
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>النظام والبرمجة</strong></td>
-    <td align="center" width="33%"><strong>إدارة النسخ والسحاب</strong></td>
-    <td align="center" width="33%"><strong>الحاويات</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-      <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
-    </td>
-    <td align="center"> 
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    </td>
-  </tr>
-</table>
-
-<!-- ---
-
-<div dir="rtl">
-
-### إحصائيات GitHub
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wistantkode&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</div> -->
-
----
-
-<div dir="rtl">
-
-### تواصل معي
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/wistantkode?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:contact@wistant.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+| **التقنيات الأساسية** | **واجهة المستخدم والتصميم** | **الـ DevOps والسحاب** |
+| :---: | :---: | :---: |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=flat-square&logo=react&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) |
 
 </div>

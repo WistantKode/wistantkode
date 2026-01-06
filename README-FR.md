@@ -1,10 +1,10 @@
 <div align="center">
 
-# [English](./README.md) | [Français](./README-FR.md) | [Deutsch] | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
+# [English](./README.md) | [Français] | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
 
-### Hallo 👋, ich bin Wistant
+### Salut 👋, je suis Wistant
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=Software-Engineering-Student;Full-Stack-Entwickler;DevOps-Enthusiast;Open-Source-Mitwirkender;TypeScript-Liebhaber&duration=3000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+G%C3%A9nie+Logiciel;D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+de+DevOps;Contributeur+Open+Source;Amoureux+de+TypeScript&duration=3000" alt="Typing SVG" />
 
 <a href="mailto:wistantkode@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/237697135341"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-| **Haupt-Stack** | **UI & Styling** | **DevOps & Cloud** |
+| **Stack Principale** | **UI & Style** | **DevOps & Cloud** |
 | :---: | :---: | :---: |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=flat-square&logo=react&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
