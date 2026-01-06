@@ -1,5 +1,4 @@
 <div align="center">
-zh](./README.ar.md)-->
 
 ### Hi 👋, I'm Wistant
 
