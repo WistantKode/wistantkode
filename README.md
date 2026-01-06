@@ -1,5 +1,5 @@
 <div align="center">
-zh-CN.md) | [العربية](./README.ar.md)-->
+zh| [العربية](./README.ar.md)-->
 
 ### Hi 👋, I'm Wistant
 
