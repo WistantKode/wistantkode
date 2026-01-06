@@ -1,6 +1,6 @@
 <div align="center">
 
-# [English] | [Français](./README-FR.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
+# [English](./README.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
 
 <!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
@@ -8,11 +8,12 @@
 
 <!-- <img src="assets/avatar.png" alt="Wistant" width="120" style="border-radius: 50%"/> -->
 
-> I am **Wistant**, a self-taught developer and Software Engineering student. I am passionate about building **secure, scalable systems** and **robust architectures**. As a **TypeScript enthusiast**, I specialize in full-stack development using **React/Next.js** for modern front-ends and **Node.js/NestJS** for high-performance back-ends.
+> I am **Wistant**, a self-taught developer and Software Engineering student. I am passionate about building **secure, scalable systems** and **robust architectures**. As a **TypeScript enthusiast**, I specialize in full-stack development using **React and Next.js** for modern front-ends and **Node.js + NestJS** for high-performance,secure back-ends.
 
-> I am deeply committed to **DevOps culture**—mastering containerization, automation, CI/CD pipelines, and cloud technologies to deliver production-ready solutions. I thrive on turning complex ideas into **enterprise-grade IT solutions** that drive impact.
+> I am deeply committed to **DevOps culture** — mastering containerization, automation, CI/CD pipelines, and cloud technologies to deliver production-ready solutions. I thrive on turning complex ideas into **enterprise-grade IT solutions** that drive impact.
 
 ---
+
 
 ### My Tech Arsenal
 
@@ -75,14 +76,16 @@
 
 ---
 
-### Connect with Me
+
+### Connect with Me !!
+
 
 <p align="center">
   <a href="https://github.com/wistantkode?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:contact@wistant.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:wistantkode@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My e-mail adress"/>
   </a>
 </p>
 
