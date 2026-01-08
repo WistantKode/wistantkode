@@ -10,7 +10,7 @@
 <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 
-<br/><br/>
+---
 
 | **Core Stack** | **UI & Styling** | **DevOps & Cloud** |
 | :---: | :---: | :---: |
