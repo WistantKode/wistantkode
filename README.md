@@ -1,5 +1,5 @@
 <div align="center">
-dddd
+ddd 
 ### Hi 👋, I'm Wistant
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;TypeScript+Lover&duration=3000" alt="Typing SVG" />
