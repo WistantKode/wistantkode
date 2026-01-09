@@ -33,7 +33,6 @@
 </table>
 
 ### DevOps & Infrastructure
-
 <table>
   <tr>
     <td align="center" width="33%"><strong>Système & Scripting</strong></td>
