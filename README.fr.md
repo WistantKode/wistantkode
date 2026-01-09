@@ -5,15 +5,6 @@
 <!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
 ### 👋 À propos de moi
-
-<img src="assets/avatar.png" alt="Wistant" width="120" style="border-radius: 50%"/>
-
-> Je suis **Wistant**, développeur autodidacte et étudiant en génie logiciel. Je suis passionné par la construction de **systèmes sécurisés et évolutifs** ainsi que d'**architectures robustes**. Passionné par **TypeScript**, je me spécialise dans le développement full-stack avec **React/Next.js** pour le front-end et **Node.js/NestJS** pour les architectures back-end performantes.
-
-> Je suis profondément immergé dans la **culture DevOps** — maîtrisant la conteneurisation, l'automatisation, les pipelines CI/CD et les technologies cloud pour livrer des solutions prêtes pour la production. J'aime transformer des idées complexes en **solutions informatiques de classe entreprise** à fort impact.
-
----
-
 ### Mon Arsenal Technique
 
 <table>
@@ -38,7 +29,6 @@
 </table>
 
 ### DevOps & Infrastructure
-
 <table>
   <tr>
     <td align="center" width="33%"><strong>Système & Scripting</strong></td>
