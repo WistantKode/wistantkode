@@ -8,7 +8,6 @@
 
 
 
-> Je suis profondément immergé dans la **culture DevOps** — maîtrisant la conteneurisation, l'automatisation, les pipelines CI/CD et les technologies cloud pour livrer des solutions prêtes pour la production. J'aime transformer des idées complexes en **solutions informatiques de classe entreprise** à fort impact.
 
 ---
 
