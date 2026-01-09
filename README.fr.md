@@ -7,7 +7,6 @@
 ### 👋 À propos de moi
 
 
-> Je suis **Wistant**, développeur autodidacte et étudiant en génie logiciel. Je suis passionné par la construction de **systèmes sécurisés et évolutifs** ainsi que d'**architectures robustes**. Passionné par **TypeScript**, je me spécialise dans le développement full-stack avec **React/Next.js** pour le front-end et **Node.js/NestJS** pour les architectures back-end performantes.
 
 > Je suis profondément immergé dans la **culture DevOps** — maîtrisant la conteneurisation, l'automatisation, les pipelines CI/CD et les technologies cloud pour livrer des solutions prêtes pour la production. J'aime transformer des idées complexes en **solutions informatiques de classe entreprise** à fort impact.
 
