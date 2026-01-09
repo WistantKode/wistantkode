@@ -9,8 +9,6 @@
 
 ### Mon Arsenal Technique
 
-
-
 <table>
   <tr>
     <td align="center" width="50%"><strong>Frontend & Backend</strong></td>
