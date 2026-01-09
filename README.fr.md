@@ -7,10 +7,6 @@
 ### 👋 À propos de moi
 
 
-
-
----
-
 ### Mon Arsenal Technique
 
 <table>
