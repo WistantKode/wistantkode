@@ -2,7 +2,7 @@
 
 # [English](./README.md) | [Français](./README-FR.md) | [Deutsch] | [简体中文](./README.zh-CN.md) | [العربية](./README.ar.md)
 
-### Hallo 👋, ich bin Wistant
+### Hallo 👋, ich bin Wistant 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=Software-Engineering-Student;Full-Stack-Entwickler;DevOps-Enthusiast;Open-Source-Mitwirkender;TypeScript-Liebhaber&duration=3000" alt="Typing SVG" />
 
