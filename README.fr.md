@@ -4,7 +4,7 @@
 
 <!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
-### 👋 À propos de moi  vnvnvnv
+### 👋 À propos de moi  vnvnvn
 ### Mon Arsenal Technique
 
 <table>
