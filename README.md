@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi 👋, I'm Wistant
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=Aspiring+CTO;Software+Architect;Cloud+Native+Builder;Tech+Strategist;Open+Source+Advocate&duration=3000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=Open+Source+Advocate;Backend+Developer+TypeScript+Lover&duration=2000" alt="Typing SVG" />
 
 <a href="mailto:wistantkode@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/237697135341"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
