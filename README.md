@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi 👋 guys, I'm Wistant, ffhjh
+### Hi 👋 guys, I'm Wistant, ffhj
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=Open+Source+Advocate;Backend+Developer+TypeScript+Lover&duration=2000" alt="Typing SVG" />
 
 <a href="mailto:wistantkode@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
