@@ -4,9 +4,12 @@
 
 <!-- <img src="assets/wistant-banner.png" alt="Wistant Kode Banner" width="100%"/> -->
 
-### 👋 À propos de moi
+### 👋 À propos de moi   nnsnssjjsjs
 ### Mon Arsenal Technique
-
+100% d’accord.
+Le vrai game changer, ce n’est pas “l’IA qui code”, c’est l’IA qui respecte une culture d’ingénierie.
+Des règles avant le code, des standards avant la vitesse.
+On ne scale pas un produit avec des prompts, on le scale avec des principes encodés.
 <table>
   <tr>
     <td align="center" width="50%"><strong>Frontend & Backend</strong></td>
