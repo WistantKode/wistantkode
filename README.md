@@ -1,5 +1,7 @@
 <div align="center">
+
 ### Hi 👋 guys, I'm Wistant,
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=38B2AC&center=true&vCenter=true&width=435&lines=Open+Source+Advocate;Backend+Developer;TypeScript+Lover&duration=2000" alt="Typing SVG" />
 
@@ -8,7 +10,7 @@
 <a href="https://linkedin.com/in/wistantkode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
