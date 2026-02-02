@@ -1,9 +1,3 @@
-## TypeScript • Frontend Developer
-
-Building interfaces, optimizing backends.
-
-**Focus:** Performance • Production • Infrastructure • Cloud
-
----
-
-**Stack:** TypeScript • Node.js • Cloud Services
+## Hi I'm Wistant 👋
+## TypeScript Lover • Open Source Advocate
+## **DevOps • Cloud • Performance • Production**
