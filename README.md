@@ -1,7 +1,7 @@
-## Hi I'm Wistant 👋
-## TypeScript Lover • Open Source Advocate
+Hi I'm Wistant 👋
+TypeScript Lover • Open Source Advocate • DevOps & Cloud 
 
-**Tech Stack**
+## **Tech Stack**
 
 | **Languages** | **Tools** | **Databases** |
 |--------------|-----------|---------------|
